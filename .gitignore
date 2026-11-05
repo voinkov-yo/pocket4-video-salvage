@@ -1,0 +1,9 @@
+vendor/
+results/
+__pycache__/
+*.log
+*.mp4
+*.lrf
+*.trinf
+*.hevc
+!portrait_0153.hevc

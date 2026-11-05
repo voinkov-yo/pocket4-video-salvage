@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="220" viewBox="0 0 940 220" role="img" aria-label="Повреждённый MP4, поиск видеокадров, новый MP4 без звука">
+  <rect width="940" height="220" rx="22" fill="#101827"/>
+  <text x="34" y="40" fill="#e6edf7" font-family="Arial,sans-serif" font-size="21" font-weight="700">Как работает восстановление</text>
+  <rect x="34" y="72" width="250" height="108" rx="14" fill="#253348" stroke="#52647d"/>
+  <text x="55" y="115" fill="#ffffff" font-family="Arial,sans-serif" font-size="18" font-weight="700">Повреждённый MP4</text>
+  <text x="55" y="145" fill="#bbcadb" font-family="Arial,sans-serif" font-size="15">Видеоданные без индекса</text>
+  <path d="M299 126h42m-10-10 10 10-10 10" stroke="#73d8bb" stroke-width="4" fill="none"/>
+  <rect x="356" y="72" width="230" height="108" rx="14" fill="#253348" stroke="#52647d"/>
+  <text x="377" y="115" fill="#ffffff" font-family="Arial,sans-serif" font-size="18" font-weight="700">Поиск кадров HEVC</text>
+  <text x="377" y="145" fill="#bbcadb" font-family="Arial,sans-serif" font-size="15">Сборка и перекодирование</text>
+  <path d="M601 126h42m-10-10 10 10-10 10" stroke="#73d8bb" stroke-width="4" fill="none"/>
+  <rect x="658" y="72" width="248" height="108" rx="14" fill="#1a4f4b" stroke="#73d8bb"/>
+  <text x="679" y="115" fill="#ffffff" font-family="Arial,sans-serif" font-size="18" font-weight="700">Новый MP4</text>
+  <text x="679" y="145" fill="#d1f4e7" font-family="Arial,sans-serif" font-size="15">Видео без звука</text>
+</svg>
